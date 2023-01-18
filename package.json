@@ -1,0 +1,18 @@
+{
+	"name": "example-structure",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"autoprefixer": "^10.4.13",
+		"eslint": "^8.32.0",
+		"postcss": "^8.4.21",
+		"tailwindcss": "^3.2.4",
+		"vite": "^4.0.0"
+	}
+}
